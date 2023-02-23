@@ -29,9 +29,8 @@ require (
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/vishvananda/netlink v0.0.0-20181108222139-023a6dafdcdf
 	github.com/vishvananda/netns v0.0.0-20180720170159-13995c7128cc // indirect
-	golang.org/x/crypto v0.0.0-20181009213950-7c1a557ab941 // indirect
-	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1 // indirect
-	golang.org/x/sys v0.0.0-20190616124812-15dcb6c0061f
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
